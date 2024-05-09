@@ -1,0 +1,1 @@
+Parité d'un nombre
